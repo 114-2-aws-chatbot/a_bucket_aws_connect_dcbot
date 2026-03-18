@@ -1,0 +1,2 @@
+# a_bucket_aws_connect_dcbot
+就是單純讓colab跑然後dcbot會回答
